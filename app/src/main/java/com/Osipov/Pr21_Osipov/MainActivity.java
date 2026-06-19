@@ -1,4 +1,4 @@
-package com.abdulaziz.pr21_mirzakamilov_pr23103;
+package com.Osipov.Pr21_Osipov;
 
 import android.content.Intent;
 import android.database.Cursor;
